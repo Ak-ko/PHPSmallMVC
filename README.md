@@ -4,7 +4,7 @@
 
 ### Tools Used
 
--- Php
--- Javascript
--- Tailwind
--- TailwindUi
+- Php
+- Javascript
+- Tailwind
+- TailwindUi
